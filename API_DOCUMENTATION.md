@@ -44,7 +44,7 @@ Response `200`
   "success": true,
   "message": "Login successful",
   "data": {
-    "token": "<jwt-token>",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Y2ZmZTA1OS1hYWYyLTRiOTMtOGMxYS0wMzBlODdhOWM4MjciLCJpYXQiOjE3NzUyMTE0NTAsImV4cCI6MTc3NTI5Nzg1MH0.3sLGKupCGAQ2WxBktIz5BAzT3gfjRCBzlMb-3Qf6lY0",
     "user": {
       "id": "6cffe059-aaf2-4b93-8c1a-030e87a9c827",
       "name": "System Admin",
